@@ -4,14 +4,14 @@
 - Loading:
     - The browsers converts URLs into IP addresses using DNS (Domain Name System).
     - The browser then sends a HTTP(S) request to the website's host server to retrieve the required resources.
-- Rendering
+- Rendering:
     - The browser uses a rendering engine to process HTML, CSS, and JavaScript on a website.
     - The browser creates a DOM (Document Object Model), which represents the pages structure in a way the browser can manipulate.
     - A CSSOM (CSS Object Model) is generated to handle styles.
     - The browser uses a compositor to combine the layers into a visible page.
-- Displaying
+- Displaying:
     - After all of the processing and rendering the browser displays the web page to the screen.
-- Interacting
+- Interacting:
     - JavaScript engines handle dynamic content and interactivity, like clicks, form submissions, or scrolling.
     - UI components allow user interaction, and real-time communication technology allows for dynamic content interaction without reloading the page.
 
